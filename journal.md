@@ -415,63 +415,25 @@ i also fixed 2 erc errors i had both were because of pins not having X tag
 
 idk about the warnings ill try to find what each warning means
 
+---
+## i made a small rpp-2040 dev board in between and i learnt a bit and used footprints i have never used before and overall even though the dev board was rushed i still learnt a lot and its been a month since i made this project so i will quickly complete it now 
 
+# Journal 18 ( 2 HOURS ) :- cleaned up the schematic 
+firstly i changed the footprints to smaller ones
 
+<img width="1202" height="1204" alt="image" src="https://github.com/user-attachments/assets/eb6f2a4c-f472-4b6e-8f4b-b2c551eaf08f" />
 
+<img width="1774" height="862" alt="image" src="https://github.com/user-attachments/assets/19e1c6cc-6cba-4311-849f-94b18b2e387f" />
 
+then i perfectly cleaned up the schematics 
 
+<img width="1400" height="702" alt="image" src="https://github.com/user-attachments/assets/def467b8-eb6a-4af8-894b-1d9e0f8393cf" />
 
+now i have to do the routing part 
 
+<img width="978" height="614" alt="image" src="https://github.com/user-attachments/assets/3eb5aa84-c6e0-4ec8-9fbe-1bb69c0592d6" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1050" height="688" alt="image" src="https://github.com/user-attachments/assets/06814645-2e5d-4fbb-8154-729b9a5a1cb6" />
 
 
 
