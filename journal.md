@@ -33,7 +33,7 @@ completed the wiring esp 32 wifi and 2 buttons 1 for reset the board and 1 for r
 
 ---
 
-# Journal 3 ( 1.5 HOURS ) :- completed the schematics 
+# Journal 4 ( 1.5 HOURS ) :- completed the schematics 
 
 99.9% of the schematic is complete (not 100% coz there could be smth i might have forgotten )
 
@@ -46,12 +46,15 @@ i also did the wiring of pins like in an arduino uno R3
 <img width="1190" height="746" alt="image" src="https://github.com/user-attachments/assets/41f94483-31c2-4393-a45c-ec71c6abc54f" />
 
 the extra thing is for display
+
 completed the schematic of extra mbit flash memory 
 
 <img width="804" height="668" alt="image" src="https://github.com/user-attachments/assets/4e9d6695-f829-4b0e-b78d-d4d1156de29e" />
 
 also added in data lines for usb c port
+
 oo yea i forgot i still have to select the footprints and fix erc
+
 which uhh :( , might take some time so its only 80% complete and most time consuming and pain work starts now
 
 <img width="1388" height="926" alt="image" src="https://github.com/user-attachments/assets/38782054-2c6e-44a5-92ac-5ef22434e36d" />
@@ -62,6 +65,33 @@ also did the schematic of all the neo leds
 <img width="1262" height="1074" alt="image" src="https://github.com/user-attachments/assets/61759bb3-868b-455b-aca6-fa37d40c91a1" />
 
 ---
+
+# Journal 5 ( 1 HOURS ) :- fixed all the errors and added in footprints 
+
+fixed all the errors and added in footprints errors were mainly being pins not connected to anything and me applying wrong pwr_flag
+
+<img width="1402" height="976" alt="image" src="https://github.com/user-attachments/assets/174de017-1713-4b3b-9c1a-6f7886e52143" />
+
+<img width="1398" height="1136" alt="image" src="https://github.com/user-attachments/assets/74c67687-3787-4ea5-a540-7da19881c61c" />
+
+<img width="1378" height="1136" alt="image" src="https://github.com/user-attachments/assets/47e89f11-6c05-41b0-b952-f2dc50a56412" />
+
+---
+
+# Journal 6 ( 1.5 HOURS ) :- started with pcb design 
+
+first i got the laybout and size of the arduino uno r3 then i added in both planes to automatically fill up all the ground plane connections and then first placed the female headers exactly where and how they are placed in uno and then places rest of the components
+
+resistors were pretty easy to figure out where to place because of shorter connection the better but for capacitors they were like VBUS and GND only so connections can be every hwere so i had to go back to schematic find the exact capacitor and place it as close as i can in pcb to the part it is connected to
+
+<img width="1390" height="896" alt="image" src="https://github.com/user-attachments/assets/3f898208-84ce-40b6-9fd7-7b34351f6912" />
+
+<img width="1260" height="918" alt="image" src="https://github.com/user-attachments/assets/3c6428c6-f870-498a-95b6-22cfdcc720f0" />
+
+i still have a really big open area where i will prob add a bunch of art of smth like that also
+
+
+
 
 
 
