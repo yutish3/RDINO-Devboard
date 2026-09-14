@@ -23,5 +23,45 @@ so how this power system works is the whole board works on usb c and from usb c 
 
 ---
 
+# Journal 3 ( 0.4 HOURS ) :- completed the wiring for buttons and esp 32 wifi 
+
+completed the wiring esp 32 wifi and 2 buttons 1 for reset the board and 1 for running the board which completes a major part of the schematic process
+
+<img width="744" height="688" alt="image" src="https://github.com/user-attachments/assets/997a7f2b-05b3-4b23-a8c6-1265a1ad8f55" />
+<img width="1234" height="652" alt="image" src="https://github.com/user-attachments/assets/63476427-d48d-4899-b70b-d417ea4b03b4" />
+<img width="782" height="672" alt="image" src="https://github.com/user-attachments/assets/c5cd2400-4baa-40ee-b0ee-c04088e01a08" />
+
+---
+
+# Journal 3 ( 1.5 HOURS ) :- completed the schematics 
+
+99.9% of the schematic is complete (not 100% coz there could be smth i might have forgotten )
+
+i did the schematic of esp32 (will use wifi and bluetooth from it) and as there is a light weight esp32 present i connected left over digital pins to it so people can use its processing power in background
+
+<img width="1212" height="1018" alt="image" src="https://github.com/user-attachments/assets/595438b7-6103-492d-bafa-fe541c94ac02" />
+
+i also did the wiring of pins like in an arduino uno R3 
+
+<img width="1190" height="746" alt="image" src="https://github.com/user-attachments/assets/41f94483-31c2-4393-a45c-ec71c6abc54f" />
+
+the extra thing is for display
+completed the schematic of extra mbit flash memory 
+
+<img width="804" height="668" alt="image" src="https://github.com/user-attachments/assets/4e9d6695-f829-4b0e-b78d-d4d1156de29e" />
+
+also added in data lines for usb c port
+oo yea i forgot i still have to select the footprints and fix erc
+which uhh :( , might take some time so its only 80% complete and most time consuming and pain work starts now
+
+<img width="1388" height="926" alt="image" src="https://github.com/user-attachments/assets/38782054-2c6e-44a5-92ac-5ef22434e36d" />
+<img width="1120" height="1294" alt="image" src="https://github.com/user-attachments/assets/9db42cf6-be2c-4c2b-b926-1b3bc13cf372" />
+
+also did the schematic of all the neo leds 
+
+<img width="1262" height="1074" alt="image" src="https://github.com/user-attachments/assets/61759bb3-868b-455b-aca6-fa37d40c91a1" />
+
+---
+
 
 
