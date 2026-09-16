@@ -418,6 +418,20 @@ idk about the warnings ill try to find what each warning means
 ---
 ## i made a small rpp-2040 dev board in between and i learnt a bit and used footprints i have never used before and overall even though the dev board was rushed i still learnt a lot and its been a month since i made this project so i will quickly complete it now 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Journal 18 ( 2 HOURS ) :- cleaned up the schematic 
 firstly i changed the footprints to smaller ones
 
@@ -434,6 +448,17 @@ now i have to do the routing part
 <img width="978" height="614" alt="image" src="https://github.com/user-attachments/assets/3eb5aa84-c6e0-4ec8-9fbe-1bb69c0592d6" />
 
 <img width="1050" height="688" alt="image" src="https://github.com/user-attachments/assets/06814645-2e5d-4fbb-8154-729b9a5a1cb6" />
+
+# Journal 19 ( 3 HOURS ) :- fixed all the errors in the pcb and fixed its looks
+because i added in so many capacitors i had to make space for them and every leds had its own capacitor so i had to cram them up
+<img width="1256" height="1032" alt="image" src="https://github.com/user-attachments/assets/318ef419-79ee-42e0-b561-9064089a80da" />
+and a lot of times kicad was throwing in errors that traces are too close etc also adding in 2nd layer payed off as i was able to make area for everything on there when there was no way to route it
+<img width="1694" height="1118" alt="image" src="https://github.com/user-attachments/assets/cf9e500e-e50e-428a-8d0e-2beae36367e0" />
+<img width="1498" height="1134" alt="image" src="https://github.com/user-attachments/assets/3d88ffb8-c9e8-47c9-b88e-2c406211c405" />
+earlier me would have had to reroute the whole thing but i managed to do it quite easily it was just pain doing it and this marks the end of this project.
+
+
+
 
 
 
