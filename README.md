@@ -3,13 +3,45 @@ rp-2040 development board in the shape of arduino uno r3 so it supports its hats
 
 <img width="1540" height="1132" alt="image" src="https://github.com/user-attachments/assets/e8b6f3fe-ba04-4a4b-b773-643706d06873" />
 
-Journals 1–5: 6.4 hours
+Journal 1	2.0 hours
 
-Journals 6–10: 6.3 hours
+Journal 2	1.5 hours
 
-Journals 11–15: 8.7 hours
+Journal 3	0.4 hours
 
-Journals 16–19: 11.5 hours
+Journal 4	1.5 hours
+
+Journal 5	1.0 hours
+
+Journal 6	1.5 hours
+
+Journal 7	1.3 hours
+
+Journal 8	2.0 hours
+
+Journal 9	1.0 hours
+
+Journal 10	0.5 hours
+
+Journal 11	2.0 hours
+
+Journal 12	2.5 hours
+
+Journal 13	2.0 hours
+
+Journal 14	5.2 hours
+
+Journal 15	1.0 hours
+
+Journal 16	0.5 hours
+
+Journal 17	0.5 hours
+
+Journal 18	5.5 hours
+
+Journal 19	2.0 hours
+
+Journal 20	3.0 hours
 
 
 ## VISION
