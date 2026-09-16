@@ -3,6 +3,14 @@ rp-2040 development board in the shape of arduino uno r3 so it supports its hats
 
 <img width="1540" height="1132" alt="image" src="https://github.com/user-attachments/assets/e8b6f3fe-ba04-4a4b-b773-643706d06873" />
 
+Journals 1–5: 6.4 hours
+
+Journals 6–10: 6.3 hours
+
+Journals 11–15: 8.7 hours
+
+Journals 16–19: 11.5 hours
+
 
 ## VISION
 main goals I had was making it is that I wanted to have a powerful board on which Arduino hats can fit with wireless capabilities so I used both rp 2040 and esp 32 and connected gpios of both so rp 2040 can off load some tasks to esp 32. so in a sense it is like Arduino UNO but on steroids 
