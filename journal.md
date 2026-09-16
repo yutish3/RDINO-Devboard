@@ -208,7 +208,7 @@ so i tweaked the setup a bit fixed it and when i applied them umm i got 187 erro
 
 ---
 
-# Journal 13 ( 5.2 HOURS ) :- fixing mistakes 
+# Journal 14 ( 5.2 HOURS ) :- fixing mistakes 
 
 i went through every single error and warning earlier there were
 
@@ -266,7 +266,7 @@ i accidentally missed a journal while transferring so i had to merge these toget
 
 ---
 
-# Journal 14 ( 1 HOURS ) :- pretty much complete 
+# Journal 15 ( 1 HOURS ) :- pretty much complete 
 
 i tried finding a crystal ossicator that will work with rp2040 based on my current footprint and i found an high quality one but it has load capacitance of 8 pF so i was to switch the capacitors to 10pF (if i am wrong then correct me the formula is c = 2 x (load capacitance - stray capacitance) so c = 2 x (8 - 3) , c = 10 ) 
 
@@ -276,7 +276,7 @@ so yea it was a quick fix for it no need to change anything in schematic or foot
 
 ---
 
-# Journal 15 ( 0.5 HOURS ) :- final list 
+# Journal 16 ( 0.5 HOURS ) :- final list 
 
 i am making final adjustments and changes before submitting for grant 
 
@@ -316,7 +316,7 @@ robu pcb
 
 ---
 
-# Journal 16 ( 0.5 HOURS ) :- fixing all the errors
+# Journal 17 ( 0.5 HOURS ) :- fixing all the errors
 
 (my project got reviewed on forge and this is what they said :- You are missing all of your decoupling capacitors. There may be a brownout during operation. Also, i noticed that you name the values of your passives as "__1 __2 ..." Please don't do that because kicad will treat them as separate components, which is not the best practice. For future projects, please follow general conventions for your schematic since it is very hard to read.)
 
@@ -349,7 +349,7 @@ in next journal
 
 ---
 
-# Journal 17 ( 5.5 HOURS ) :- fixing and rechecking everything
+# Journal 18 ( 5.5 HOURS ) :- fixing and rechecking everything
 
 i am point point by point of hardware designn of rp2040 and checking and fixing everything first was input supply which was already correct 
 
@@ -432,7 +432,7 @@ idk about the warnings ill try to find what each warning means
 
 
 
-# Journal 18 ( 2 HOURS ) :- cleaned up the schematic 
+# Journal 19 ( 2 HOURS ) :- cleaned up the schematic 
 firstly i changed the footprints to smaller ones
 
 <img width="1202" height="1204" alt="image" src="https://github.com/user-attachments/assets/eb6f2a4c-f472-4b6e-8f4b-b2c551eaf08f" />
@@ -449,7 +449,7 @@ now i have to do the routing part
 
 <img width="1050" height="688" alt="image" src="https://github.com/user-attachments/assets/06814645-2e5d-4fbb-8154-729b9a5a1cb6" />
 
-# Journal 19 ( 3 HOURS ) :- fixed all the errors in the pcb and fixed its looks
+# Journal 20 ( 3 HOURS ) :- fixed all the errors in the pcb and fixed its looks
 because i added in so many capacitors i had to make space for them and every leds had its own capacitor so i had to cram them up
 <img width="1256" height="1032" alt="image" src="https://github.com/user-attachments/assets/318ef419-79ee-42e0-b561-9064089a80da" />
 and a lot of times kicad was throwing in errors that traces are too close etc also adding in 2nd layer payed off as i was able to make area for everything on there when there was no way to route it
